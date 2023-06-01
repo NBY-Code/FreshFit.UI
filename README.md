@@ -1,1 +1,1 @@
-# FreshFit.UI
+# Projede kullanılan paketlerden dolayı button ,icon vb kullanım araçlarında yazılarda kayma meydana gelmektedir çözüm için font ayarı yapılabilinir kullanıcı formda font ayarı yaparsa düzelme mümkün olabiliyor.
